@@ -1,0 +1,31 @@
+.menu-items{
+    list-style: none;
+    display: flex;
+    color: white;
+    text-align: center;
+    margin-right: 4%;
+    backdrop-filter: bluw;
+    background-color: transparent;
+}
+
+
+.menu-item{
+    text-align: center;
+    text-decoration: none;
+    padding-left: 5%;
+
+}
+.menu-item a{
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.menu-item a:hover{
+    text-decoration: underline;
+}
+
+@media only screen and (max-width: 800px){
+    .menu-items{
+        margin-right: 7%;
+    }
+}
