@@ -2,7 +2,7 @@
     session_start();
 
     if (!isset($_SESSION['user'])) {
-        header("Location: /ToDoList/login.html");
+        header("Location: /ToDoList/public/login.html");
         exit;
     }
 ?>
