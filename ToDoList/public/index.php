@@ -44,7 +44,6 @@
     </div>
 
         <p><span id="datetime"></span></p>
-        <script src="JS/time.js"></script>
     </div>
 
   <div id="myUnOrdList">
