@@ -26,7 +26,7 @@
     <ul class="menu-items">
         <li class="menu-item"><a id="todo-link1" class="link" target="_blank" href="index.php">Home</a></li>
         <li class="menu-item"><a id="todo-link2" class="link" target="_blank" href="https://www.infolivros.org/livros-pdf-gratis/superacao-pessoal/gestao-do-tempo/">Library</a></li>
-        <li class="menu-item"><a id="todo-link3" class="link" target="_blank" href="app/logout.php">Logout</a></li>
+        <li class="menu-item"><a id="todo-link3" class="link" target="_blank" href="/ToDoList/app/logout.php">Logout</a></li>
     </ul>
     <div id="header">
         <div class="flexrow-container">
